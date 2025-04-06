@@ -83,8 +83,7 @@ Key Results:
 ## Installation
 
 ### Google Colab
-[![Open In Colab](https://colab.research.google.com/github/sarim711/BiomedBERT_Medical-Text_Classification/blob/main/BioMedBERT_MedicalText_Classification.ipynb)  
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sarim711/BiomedBERT_Medical-Text_Classification/blob/main/BioMedBERT_MedicalText_Classification.ipynb)
 No setup needed - just run all notebook cells after uploading dataset
 
 ### Local Execution
