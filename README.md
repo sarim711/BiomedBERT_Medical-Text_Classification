@@ -105,12 +105,10 @@ python -m spacy download en_core_web_sm
 ```
 
 ## How to Use
-
-1. Place `covid_df.csv` in `/data` directory
-2. Launch Jupyter:
+1. Launch Jupyter:
 ```bash
 jupyter notebook BioMedBERT_MedicalText_Classification.ipynb
 ```
-3. Run cells sequentially through all three approaches
+2. Run cells sequentially through all three approaches
 
 
