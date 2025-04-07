@@ -1,5 +1,5 @@
 pandas==1.5.3
-spacy==3.7.0
+spacy==3.7.5
 scikit-learn==1.4.2
 transformers==4.39.3
 torch==2.0.1
